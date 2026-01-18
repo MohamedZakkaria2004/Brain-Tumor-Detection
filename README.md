@@ -60,7 +60,7 @@ brain-project/
 
 * OpenCV / PIL
 
-# SETUP Instructions
+# Setup Instructions
 
 * Clone the repository
 ```bash
