@@ -17,6 +17,9 @@ The system is capable of:
 * Providing prediction confidence scores
 * Assisting medical professionals as a decision-support tool, not a replacement
 
+# Dataset
+[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=download)
+
 # Project Directory
 
 ```bash
@@ -56,3 +59,5 @@ brain-project/
 * Scikit-learn
 
 * OpenCV / PIL
+
+
