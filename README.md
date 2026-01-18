@@ -1,4 +1,4 @@
-# Brain-Tumor-Detection-Using-Deep-Learning-MRI-Images-Detection-Using-Computer-Vision
+# Deep Learning–Based Brain Tumor Detection from MRI images
 
 This project focuses on automated brain tumor detection and classification using Deep Learning and Computer Vision techniques applied to MRI images. A VGG16-based Convolutional Neural Network (CNN) is trained to classify MRI scans into four categories:
 
