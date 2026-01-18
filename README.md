@@ -17,3 +17,22 @@ The system is capable of:
 * Providing prediction confidence scores
 * Assisting medical professionals as a decision-support tool, not a replacement
 
+# Project Directory
+
+brain-project/
+│
+├── training/
+│   ├── glioma/
+│   ├── meningioma/
+│   ├── notumor/
+│   └── pituitary/
+│
+├── testing/
+│   ├── glioma/
+│   ├── meningioma/
+│   ├── notumor/
+│   └── pituitary/
+│
+├── brain_tumour_detection_using_deep_learning.ipynb
+└── README.md
+
