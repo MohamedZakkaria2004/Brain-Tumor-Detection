@@ -38,3 +38,21 @@ brain-project/
 └── README.md
 
 ```
+
+# Tools used
+
+* Python
+
+* TensorFlow / Keras
+
+* VGG16 (Transfer Learning)
+
+* NumPy
+
+* Matplotlib
+
+* Seaborn
+
+* Scikit-learn
+
+* OpenCV / PIL
