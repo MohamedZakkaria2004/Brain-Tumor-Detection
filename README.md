@@ -19,6 +19,7 @@ The system is capable of:
 
 # Project Directory
 
+```bash
 brain-project/
 │
 ├── training/
@@ -36,3 +37,4 @@ brain-project/
 ├── brain_tumour_detection_using_deep_learning.ipynb
 └── README.md
 
+```
